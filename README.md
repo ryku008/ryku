@@ -1,0 +1,1 @@
+i made this to help notify me everytime jaya grocer farm fresh milk goes on sale, it then proceeds to send a telegram message to a group chat so everyone can be notified inside about its current selling price
